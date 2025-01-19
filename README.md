@@ -8,7 +8,6 @@
 ### Identitas:
 - **Nama**: Muhammad Hilmy Maruf  
 - **NIM**: 14622  
-- **Mata Kuliah**: Sistem Teknologi Informasi dan Komunikasi (STKI)
 
 ---
 
