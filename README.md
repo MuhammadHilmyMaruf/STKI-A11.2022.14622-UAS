@@ -131,4 +131,3 @@ Confusion matrix menunjukkan bahwa model berhasil mengklasifikasikan dengan baik
 
 ---
 
-Dokumentasi ini menyajikan penjelasan yang jelas mengenai proyek ini dan proses yang dilakukan dari awal hingga akhir. Jika ada bagian yang perlu penjelasan lebih lanjut, saya siap membantu!
