@@ -1,6 +1,4 @@
-Berikut adalah dokumentasi untuk **Jupyter Notebook** berdasarkan kode yang Anda berikan:
 
----
 
 # 1. Judul / Topik Project dan Identitas Lengkap
 
